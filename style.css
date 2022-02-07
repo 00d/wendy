@@ -60,6 +60,11 @@ a {
   color: black;
 }
 
+.mission {
+  margin-top: 4rem;
+  font-size: 1.6rem;
+}
+
 .vid {
   display: flex;
   justify-content: space-between;
@@ -76,4 +81,5 @@ a {
   margin: 0 auto;
   background-color: white;
   color: black;
+  font-size: 1.2rem;
 }
