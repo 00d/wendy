@@ -76,10 +76,16 @@ a {
 }
 
 .about {
-  width: 800px;
+  width: 90%;
+  min-width: 800px;
   height: 700px;
   margin: 0 auto;
   background-color: white;
   color: black;
   font-size: 1.2rem;
+}
+
+#wendy {
+
+  width: 100%;
 }
